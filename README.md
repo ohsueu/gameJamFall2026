@@ -1,5 +1,5 @@
 # UWT game jam submission
 contributors:  Mike Ao, Michael Eckroth, Sasank Gopisetti, Megan Oh
-written in Ren'Py
+<br>written in Ren'Py
 ## about
 ---
