@@ -94,32 +94,27 @@ label best_ending:
     menu:
         "go back to menu?":
             jump start
-        "exit":
-            jump end
+        
 
 label good_ending:
     a "Passing score (2 to 4 points)! Good job!"
     menu:
         "go back to menu?":
             jump start
-        "exit":
-            jump end
+       
 
 label bad_ending:
     a "Failing score (-2 to 1 point). Better luck next time!"
     menu:
         "go back to menu?":
             jump start
-        "exit":
-            jump end
-
+       
 label error_screen:
     a "An error occured, what would you like to do?"
     menu:
         "go back to menu?":
             jump start
-        "exit":
-            jump end
+        
 
 label end:
     a "thank you for playing!"
